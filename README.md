@@ -1,4 +1,4 @@
-# GameBoy Emulator (gbemu)
+# GameBoy Emulator 
 
 ## Progress Tracker
 
