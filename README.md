@@ -1,6 +1,14 @@
-# GameBoy-Emulator
+# GameBoy Emulator (gbemu)
 
+## Progress Tracker
 
+- **Part 1**: Initial implementation
+  - ROM file reading
+  - Displaying ROM details
+
+- **Part 2**: Advanced CPU instruction execution
+  - Extended features for handling CPU instructions
+  - Built on the foundation of `part1`
 
 Important References:
 
