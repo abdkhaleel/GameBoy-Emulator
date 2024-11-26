@@ -1,4 +1,4 @@
-# GameBoy Emulator
+# GameBoy Emulator 
 
 ## Progress Tracker
 
@@ -6,15 +6,18 @@
   - ROM file reading
   - Displaying ROM details
 
-- **Part 2**: Initial CPU instruction execution
-  - Implemented basic opcodes
-  - Verified correct execution of foundational instructions
+- **Part 2**: CPU instruction structures
+  - Defined opcode structures
+  - Mapped opcodes to functions
 
-- **Part 3**: Extended CPU instruction execution
-  - Added support for advanced opcodes
-  - Optimized execution pipeline
-  - Improved debugging and error handling
+- **Part 3**: CPU instruction execution
+  - Executed instructions defined in `part2`
+  - Implemented instruction dispatch loop
 
+- **Part 4**: Fetching data for instructions and implementing load instructions
+  - Added operand fetching logic
+  - Implemented various `LD` instructions
+  - Verified correct data transfers between registers and memory
 
 Important References:
 
