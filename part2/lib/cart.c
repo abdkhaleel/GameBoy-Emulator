@@ -9,6 +9,7 @@ typedef struct {
 
 static cart_context ctx;
 
+//rom types
 static const char *ROM_TYPES[] = {
     "ROM ONLY",
     "MBC1",
