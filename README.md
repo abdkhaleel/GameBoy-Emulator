@@ -30,6 +30,7 @@ To build and run this emulator, ensure you have the following installed on your 
    ```bash
    git clone https://github.com/abdkhaleel/GameBoy-Emulator.git
    cd GameBoy-Emulator
+   cd part_no --currently 16 is the latest part
    ```
 
 2. Create a build directory and configure the project:
@@ -46,7 +47,7 @@ To build and run this emulator, ensure you have the following installed on your 
 
 4. Run the emulator:
    ```bash
-   ./GameBoyEmulator <path-to-rom-file>
+   gbemu/gbemu <path-to-rom-file>
    ```
 
 ## Important References
